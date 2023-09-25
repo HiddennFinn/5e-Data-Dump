@@ -4,6 +4,7 @@
     "AC": ["11 + dex mod"],
     "Strength Requirement": [null],
     "Disadvantage": [null],
+    "Don/Doff Time": ["1 minute"],
     "Weight": ["8 lbs"],
     "Price": ["5 gp"]},
   "Leather": {
@@ -11,6 +12,7 @@
     "AC": ["11 + dex mod"],
     "Strength Requirement": [null],
     "Disadvantage": [null],
+    "Don/Doff Time": ["1 minute"],
     "Weight": ["30 lbs"],
     "Price": ["10 gp"]},
   "Studded Leather": {
@@ -18,6 +20,7 @@
     "AC": ["12 + dex mod"],
     "Strength Requirement": [null],
     "Disadvantage": [null],
+    "Don/Doff Time": ["1 minute"],
     "Weight": ["13 lbs"],
     "Price": ["45 gp"]},
   "Hide": {
@@ -25,6 +28,7 @@
     "AC": ["12 + dex mod (max 2)"],
     "Strength Requirement": [null],
     "Disadvantage": [null],
+    "Don/Doff Time": ["5 minutes"],
     "Weight": ["12 lbs"],
     "Price": ["10 gp"]},
   "Chain Shirt": {
@@ -32,6 +36,7 @@
     "AC": ["13 + dex mod (max 2)"],
     "Strength Requirement": [null],
     "Disadvantage": [null],
+    "Don/Doff Time": ["5 minutes"],
     "Weight": ["20 lbs"],
     "Price": ["50 gp"]},
   "Scale Mail": {
@@ -39,6 +44,7 @@
     "AC": ["14 + dex mod (max 2)"],
     "Strength Requirement": [null],
     "Disadvantage": ["Stealth"],
+    "Don/Doff Time": ["5 minutes"],
     "Weight": ["45 lbs"],
     "Price": ["50 gp"]},
   "Spiked Armor": {
@@ -46,6 +52,7 @@
     "AC": ["14 + dex mod (max 2)"],
     "Strength Requirement": [null],
     "Disadvantage": ["Stealth"],
+    "Don/Doff Time": ["5 minutes"],
     "Weight": ["45 lbs"],
     "Price": ["75 gp"]},
   "Breastplate": {
@@ -53,6 +60,7 @@
     "AC": ["14 + dex mod (max 2)"],
     "Strength Requirement": [null],
     "Disadvantage": [null],
+    "Don/Doff Time": ["5 minutes"],
     "Weight": ["20 lbs"],
     "Price": ["400 gp"]},
   "Halfplate": {
@@ -60,6 +68,7 @@
     "AC": ["15 + dex mod (max 2)"],
     "Strength Requirement": [null],
     "Disadvantage": ["Stealth"],
+    "Don/Doff Time": ["5 minutes"],
     "Weight": ["40 lbs"],
     "Price": ["750 gp"]},
   "Ring Mail": {
@@ -67,6 +76,7 @@
     "AC": ["14"],
     "Strength Requirement": [null],
     "Disadvantage": ["Stealth"],
+    "Don/Doff Time": ["10 minutes"],
     "Weight": ["40 lbs"],
     "Price": ["30 gp"]},
   "Chain Mail": {
@@ -74,6 +84,7 @@
     "AC": ["16"],
     "Strength Requirement": ["13"],
     "Disadvantage": ["Stealth"],
+    "Don/Doff Time": ["10 minutes"],
     "Weight": ["55 lbs"],
     "Price": ["75 gp"]},
   "Splint": {
@@ -81,6 +92,7 @@
     "AC": ["15"],
     "Strength Requirement": ["15"],
     "Disadvantage": ["Stealth"],
+    "Don/Doff Time": ["10 minutes"],
     "Weight": ["60 lbs"],
     "Price": ["200 gp"]},
   "Plate": {
@@ -88,6 +100,7 @@
     "AC": ["18"]
     "Strength Requirement": ["15"],
     "Disadvantage": ["Stealth"],
+    "Don/Doff Time": ["10 minutes"],
     "Weight": ["65 lbs"],
     "Price": ["1500 gp"]}
 }
