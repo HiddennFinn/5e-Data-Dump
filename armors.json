@@ -1,0 +1,93 @@
+{
+  "Padded": {
+    "Category": ["Light"]
+    "AC": ["11 + dex mod"],
+    "Strength Requirement": [null],
+    "Disadvantage": [null],
+    "Weight": ["8 lbs"],
+    "Price": ["5 gp"]},
+  "Leather": {
+    "Category": ["Light"]
+    "AC": ["11 + dex mod"],
+    "Strength Requirement": [null],
+    "Disadvantage": [null],
+    "Weight": ["30 lbs"],
+    "Price": ["10 gp]},
+  "Studded Leather": {
+    "Category": ["Light"]
+    "AC": ["12 + dex mod"],
+    "Strength Requirement": [null],
+    "Disadvantage": [null],
+    "Weight": ["13 lbs"],
+    "Price": ["45 gp"]},
+  "Hide": {
+    "Category": ["Medium"]
+    "AC": ["12 + dex mod (max 2)"],
+    "Strength Requirement": [null],
+    "Disadvantage": [null],
+    "Weight": ["12 lbs"],
+    "Price": ["10 gp"]},
+  "Chain Shirt": {
+    "Category": ["Medium"]
+    "AC": ["13 + dex mod (max 2)"],
+    "Strength Requirement": [null],
+    "Disadvantage": [null],
+    "Weight": ["20 lbs"],
+    "Price": ["50 gp"]},
+  "Scale Mail": {
+    "Category": ["Medium"]
+    "AC": ["14 + dex mod (max 2)"],
+    "Strength Requirement": [null],
+    "Disadvantage": ["Stealth"],
+    "Weight": ["45 lbs"],
+    "Price": ["50 gp"]},
+  "Spiked Armor": {
+    "Category": ["Medium"]
+    "AC": ["14 + dex mod (max 2)"],
+    "Strength Requirement": [null],
+    "Disadvantage": ["Stealth"],
+    "Weight": ["45 lbs"],
+    "Price": ["75 gp"]},
+  "Breastplate": {
+    "Category": ["Medium"]
+    "AC": ["14 + dex mod (max 2)"],
+    "Strength Requirement": [null],
+    "Disadvantage": [null],
+    "Weight": ["20 lbs"],
+    "Price": ["400 gp"]},
+  "Halfplate": {
+    "Category": ["Medium"]
+    "AC": ["15 + dex mod (max 2)"],
+    "Strength Requirement": [null],
+    "Disadvantage": ["Stealth"],
+    "Weight": ["40 lbs"],
+    "Price": ["750 gp"]},
+  "Ring Mail": {
+    "Category": ["Heavy"]
+    "AC": ["14"],
+    "Strength Requirement": [null],
+    "Disadvantage": ["Stealth"],
+    "Weight": ["40 lbs"],
+    "Price": ["30 gp"]},
+  "Chain Mail": {
+    "Category": ["Heavy"]
+    "AC": ["16"],
+    "Strength Requirement": ["13"],
+    "Disadvantage": ["Stealth"],
+    "Weight": ["55 lbs"],
+    "Price": ["75 gp"]},
+  "Splint": {
+    "Category": ["Heavy"]
+    "AC": ["15"],
+    "Strength Requirement": ["15"],
+    "Disadvantage": ["Stealth"],
+    "Weight": ["60 lbs"],
+    "Price": ["200 gp"]},
+  "Plate": {
+    "Category": ["Heavy"]
+    "AC": ["18"]
+    "Strength Requirement": ["15"],
+    "Disadvantage": ["Stealth"],
+    "Weight": ["65 lbs"],
+    "Price": ["1500 gp"]}
+}
