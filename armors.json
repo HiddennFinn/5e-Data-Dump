@@ -110,7 +110,6 @@
   "Plate": {
     "Category": ["Heavy"],
     "AC": ["18"],
-    "Strength Requirement": ["15"],
     "Disadvantage": ["Stealth"],
     "Don/Doff Time": ["10 minutes"],
     "Weight": ["65 lbs"],
