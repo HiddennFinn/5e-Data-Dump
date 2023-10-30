@@ -26,7 +26,10 @@
     "Bonus Actions": [null],
     "Legendary Actions": [null],
     "Lair Actions": [null],
-    "Regional Effects": [null]
+    "Regional Effects": [null],
+    "Variant": [null],
+    "Environment": [null],
+    "Source": ["PHB, page 213"]
   },
   "Animated Object (Large)": {
     "Size": ["Large"],
@@ -55,7 +58,10 @@
     "Bonus Actions": [null],
     "Legendary Actions": [null],
     "Lair Actions": [null],
-    "Regional Effects": [null]
+    "Regional Effects": [null],
+    "Variant": [null],
+    "Environment": [null],
+    "Source": ["PHB, page 213"]
   },
   "Animated Object (Medium)": {
     "Size": ["Medium"],
@@ -84,7 +90,10 @@
     "Bonus Actions": [null],
     "Legendary Actions": [null],
     "Lair Actions": [null],
-    "Regional Effects": [null]
+    "Regional Effects": [null],
+    "Variant": [null],
+    "Environment": [null],
+    "Source": ["PHB, page 213"]
   },
   "Animated Object (Small)": {
     "Size": ["Small"],
@@ -113,7 +122,10 @@
     "Bonus Actions": [null],
     "Legendary Actions": [null],
     "Lair Actions": [null],
-    "Regional Effects": [null]
+    "Regional Effects": [null],
+    "Variant": [null],
+    "Environment": [null],
+    "Source": ["PHB, page 213"]
   },
   "Animated Object (Tiny)": {
     "Size": ["Medium"],
@@ -142,7 +154,10 @@
     "Bonus Actions": [null],
     "Legendary Actions": [null],
     "Lair Actions": [null],
-    "Regional Effects": [null]
+    "Regional Effects": [null],
+    "Variant": [null],
+    "Environment": [null],
+    "Source": ["PHB, page 213"]
   },
   "Avatar of Death": {
     "Size": ["Medium"],
@@ -171,7 +186,10 @@
     "Bonus Actions": [null],
     "Legendary Actions": [null],
     "Lair Actions": [null],
-    "Regional Effects": [null]
+    "Regional Effects": [null],
+    "Variant": [null],
+    "Environment": [null],
+    "Source": ["DMG, page 164. Also found in TCE. Available in the SRD."]
   },
   "Giant Fly": {
     "Size": ["Large"],
@@ -200,7 +218,10 @@
     "Bonus Actions": [null],
     "Legendary Actions": [null],
     "Lair Actions": [null],
-    "Regional Effects": [null]
+    "Regional Effects": [null],
+    "Variant": [null],
+    "Environment": [null],
+    "Source": ["DMG, page 169"]
   },
   "Larva": {
     "Size": ["Medium"],
@@ -229,7 +250,10 @@
     "Bonus Actions": [null],
     "Legendary Actions": [null],
     "Lair Actions": [null],
-    "Regional Effects": [null]
+    "Regional Effects": [null],
+    "Variant": [null],
+    "Environment": [null],
+    "Source": ["DMG, page 63. Also found in BGDIA; SatO; ToFW."]
   },
   "Aarakocra": {
     "Size": ["Medium"],
@@ -252,6 +276,8 @@
     "Challenge": ["1/4 (50 XP)"],
     "Traits": ["Dive Attack: If the aarakocra is flying and dives at least 30 feet straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 3 (1d6) damage to the target."],
     "Actions": ["Talon: Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.", "Javelin: Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage."],
+    "Reactions": [null],
+    "Bonus Actions": [null],
     "Legendary Actions": [null]
   },
   "Aboleth": {
